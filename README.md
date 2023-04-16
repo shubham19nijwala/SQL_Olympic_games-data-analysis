@@ -1,8 +1,8 @@
 # SQL_Olympic_games-data-analysis
 
 ## Database and Tools:
-   ### PostgreSQL 15
-   ### pgAdmin 4
+   #### PostgreSQL 15
+   #### pgAdmin 4
   
 
 ## 120 years of Olympic history: athletes and results:
