@@ -2,7 +2,7 @@
 
 ## 120 years of Olympic history: athletes and results:
 ### Summary:
-This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.Point to be noted is that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on.
+This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.Point to be noted here is that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on.
 ### Content:
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
 
