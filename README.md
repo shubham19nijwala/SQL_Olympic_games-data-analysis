@@ -22,3 +22,4 @@ City - Host city
 Sport - Sport
 Event - Event
 Medal - Gold, Silver, Bronze, or NA
+k
