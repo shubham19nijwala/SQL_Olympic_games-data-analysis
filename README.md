@@ -1,6 +1,6 @@
 # SQL_Olympic_games-data-analysis
 ![61167b1583751946399a5ccb](https://github.com/shubham19nijwala/SQL_Olympic_games-data-analysis/assets/130289158/ecf6a4f9-0380-4588-9a25-e782c06a9f30)
-
+I possess an extensive Olympic Games dataset that covers all Games from Athens 1896 to Rio 2016. Throughout my project, I tackle 20 unanswered questions by utilizing SQL queries. By analyzing this historical dataset, I uncover insights and provide solutions to long-standing inquiries. From understanding medal distributions to unraveling athlete achievements, my project sheds light on various aspects of the Olympic Games.
 ## Database and Tools:
    #### PostgreSQL 15
    #### pgAdmin 4
