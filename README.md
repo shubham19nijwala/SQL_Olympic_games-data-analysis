@@ -1,4 +1,5 @@
 # SQL_Olympic_games-data-analysis
+![61167b1583751946399a5ccb](https://github.com/shubham19nijwala/SQL_Olympic_games-data-analysis/assets/130289158/ecf6a4f9-0380-4588-9a25-e782c06a9f30)
 
 ## Database and Tools:
    #### PostgreSQL 15
